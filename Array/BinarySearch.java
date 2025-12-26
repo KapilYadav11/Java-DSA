@@ -18,7 +18,7 @@ public class BinarySearch{
     }
     public static void main(String [] args){
         int numbers[] = {10,20,30,40,50,60,70,80,90,100};
-        int key = 220;
+        int key = 80;
 
         System.out.println("index for the key is:" + binarySearch(numbers , key));
     }

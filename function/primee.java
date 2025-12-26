@@ -52,3 +52,24 @@ public static void main(String [] args){
 
 // optimized method to find the prime number
 // primee file is given due java case senstive
+
+
+
+
+
+
+//Math.sqrt(n) kis liye leta hai :-
+// Factor pairs:
+
+// 1 × 36
+
+// 2 × 18
+
+// 3 × 12
+
+// 4 × 9
+
+// 6 × 6
+
+// After 6, factors repeat in reverse order.
+// So checking beyond 6 is wasted work.

@@ -1,7 +1,7 @@
 import java.util.*;
 public class ArrayQuetions {
     public static int trappedRainWater(int height[]){
-         // this is the problem based on the rain trapped water , and  the logic used in this problem used is much useful , so we can solve more related problem like this 
+         // this is the problem based on the rain trapped water , and  the logic used in this problem  is much useful , so we can solve more related problem like this 
          // step 1. to calculate the left max boundary - array
          // iss wale m hum aage se back side ko chala rahe hai, aur left max value  ko dal rahe hai
          int n = height.length;
